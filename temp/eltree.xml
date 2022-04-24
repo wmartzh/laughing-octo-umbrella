@@ -1,0 +1,14 @@
+<Catalog>
+  <mobile>
+    <brand>Redmi</brand>
+    <price>6000</price>
+  </mobile>
+  <mobile>
+    <brand>Samsung</brand>
+    <price> 7000</price>
+  </mobile>
+  <mobile>
+    <brand>RealMe</brand>
+    <price>333222</price>
+  </mobile>
+</Catalog>
